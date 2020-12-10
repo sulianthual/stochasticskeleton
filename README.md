@@ -9,7 +9,7 @@ Matlab code to integrate a Stochastic Skeleton Model for the Madden-Julian Oscil
 
 references: github: https://github.com/sulianthual/stochasticskeleton
 
-Introduction: 
+<h4>Introduction: </h4>
 
 The Madden-Julian Oscillation (MJO) is a major climate phenomena in the tropical atmosphere. The stochastic skeleton model simulates the phenomena and provides important theoretical understanding. The model is described in details in a scientific article: 
 
@@ -17,9 +17,7 @@ Thual, S., A. J. Majda, and S. N. Stechmann, 2014: A Stochastic Skeleton Model f
 
 as well as in several subsequent articles by the same authors. 
 
-
-
-Instructions: 
+<h4>Instructions: </h4>
 
 1) You need matlab installed.
 
