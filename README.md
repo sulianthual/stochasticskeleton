@@ -1,7 +1,7 @@
 
 ![alt text](https://github.com/sulianthual/stochasticskeleton/blob/main/screenshot.png?raw=true "Screenshot")
 
-Stochastic Skeleton Model
+<h4>Stochastic Skeleton Model</h4>
 
 code by Sulian Thual 
 
