@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/sulianthual/stochasticskeleton/blob/main/screenshot.png?raw=true "Screenshot")
+![alt text](screenshot.png?raw=true "Screenshot")
 
 <h4>Stochastic Skeleton Model</h4>
 
