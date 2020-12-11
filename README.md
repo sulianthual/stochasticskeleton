@@ -3,7 +3,7 @@
 
 <h4>Stochastic Skeleton Model</h4>
 
-code by Sulian Thual 
+code by Sulian Thual (2020)
 
 Matlab code to integrate a Stochastic Skeleton Model for the Madden-Julian Oscillation (MJO) and perform several analysis.
 
